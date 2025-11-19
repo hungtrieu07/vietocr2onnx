@@ -2,3 +2,4 @@
 *.onnx
 *.pth
 __pycache__
+ocr_model_cds_seq2seq/
