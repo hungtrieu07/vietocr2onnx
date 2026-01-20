@@ -1,5 +1,7 @@
 .vscode
 *.onnx
 *.pth
+*.yml
 __pycache__
 ocr_model_cds_seq2seq/
+weights/
